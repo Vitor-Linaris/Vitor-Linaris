@@ -1,36 +1,35 @@
 <a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
-  <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.gif" />
+  <img align="left" width="100%" alt="about" src="./images/headerBackground-en.gif"/>
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling" />
+<h2 align="center">📇 &ensp; <i>Ａｂｏｕｔ</i></h2>
+<img align="right" src="./images/analysis.gif" width="395px" height="310px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
+      <a href="README.md">🇧🇷 Português</a>
     </td>
     <td>
-      <a href="readme-en.md">🇺🇸 English</a>
+      <b>
+        <a href="readme-en.md">🇺🇸 English</a>
+      </b>
     </td>
   </tr>
 </table>
-
 <ul align="left">
-    <li>🤩️ Amo Tecnologia, Animes, Phonk, Psicologia, Xadrez e Parkour.</li>
-    <li>💻 <b>Trabalho</b> na <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-    <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Evoluindo exponencialmente em <strong>React.js</strong> e em seu ecossistema.</li>
-    <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
+    <li>🤩️ I love Technology, Anime, Phonk, Psychology, Chess and Parkour.</li>
+    <li>💻 I work at <a href="https://github.com/delta-code-ltda" target="_blank">Delta Code</a> and I've studied at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target ="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a>, <a href="https://www.dio.me" target ="_blank">DIO<a/> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+    <li>🔭 With more than 1 year of <b>experience</b>, I have autonomy in several of the most relevant Front-end technologies on the market.</li>
+    <li>🔮 I'm specializing in Front-end, but I have good notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
+    <li>🚀 Evolving exponentially in <strong>React.js</strong> and its ecosystem.</li>
+    <li>⚡ Fun fact: I structure my routine in Javascript.</li>
 </ul>
-<br/>
+<br/><br/>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="254px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="255px">
+<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
+<img align="left" width="380px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<table align="right" height="380px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -334,11 +333,11 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
-<br><br>
+<h2 align="center">📩 &ensp; Ｃｏｎｔａｃｔ</h2>
+<img align="left" width="260px" src="./images/oh-ok.gif" alt="anime coding">
+<br><br><br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
@@ -369,12 +368,12 @@
   </a>
   <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="Discord badge">
 </p>
-<br><br><br>
+<br/><br/><br/><br/>
 
-<h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
-<table height="495px">
-  <tr>
+<h2 align="center">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
+<img align="right" src="./images/projects-wallpaper.gif" height="651px" alt="projects image">
+<table height="650px">
+<tr>
     <td>
     <a href="https://github.com/Luk4x/apple-store" target="_blank">
       <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
@@ -533,17 +532,17 @@
 
 <h2 align="center">
   <details open>
-    <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+    <summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
     <br/>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
     <br/><br/>
-    <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+    <img align="left" height="490px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400" />
     <div align="right">
-      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-      <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
+      <img height="240px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400" />
+      <img height="240px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true&cache_seconds=14400" />
     </div>
     <br/>
-    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
   </details>
 
 <hr/>
@@ -552,10 +551,10 @@
   <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Lucas Delta Code Signature" width="350px" align="right" />
 </a>
 <br/>
-<img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="luk4x profile visitors count" height="40px" align="left" />
+<img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="luk4x profile visitors count" height="38px" align="left" />
 <br/><br/><br/>
-<!--
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -568,5 +567,4 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
 </a>
-
 -->
