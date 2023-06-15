@@ -20,8 +20,9 @@
 
 <ul align="left">
     <li>🤩️ Sou apaixonado por Tecnologia, UI Design, Games.</li>
-    <li>💻 <b>Trabalho</b> no <a href="https://www.crcease.decea.mil.br/" target="_blank">CRCEA-SE</a>, sou formado em Análise e Desenvolvimento de Sistema pela <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a> e já estudei no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-    <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia em diversas tecnologias no Front-end e UI Design mais relevantes do mercado.</li>
+    <li>💻 <b>Trabalho</b> no <a href="https://www.crcease.decea.mil.br/" target="_blank">CRCEA-SE</a> e sou formado em Análise e Desenvolvimento de Sistema pela <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a>.</li>
+    <li>📚 Estudando <a href="https://codeboost.com.br/" target="_blank">Codeboost</a>, <a href="https://onebitcode.com/lp/" target="_blank">OneBitCode</a>, <a href="https://www.udemy.com/" target="_blank">Udemy<a/>, <a href="https://www.uiboost.com.br/" target="_blank">UIBoost</a>.</li>
+    <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia no Front-end e UI Design.</li>
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Evoluindo exponencialmente em <strong>React.js</strong> e em seu ecossistema.</li>
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
