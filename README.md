@@ -21,17 +21,16 @@
 <ul align="left">
     <li>🤩️ Sou apaixonado por Tecnologia, UI Design, Games.</li>
     <li>💻 <b>Trabalho</b> no <a href="https://www.crcease.decea.mil.br/" target="_blank">CRCEA-SE</a> e sou formado em Análise e Desenvolvimento de Sistema pela <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a>.</li>
-    <li>📚 Estudando <a href="https://codeboost.com.br/" target="_blank">Codeboost</a>, <a href="https://onebitcode.com/lp/" target="_blank">OneBitCode</a>, <a href="https://www.udemy.com/" target="_blank">Udemy<a/>, <a href="https://www.uiboost.com.br/" target="_blank">UIBoost</a>.</li>
+    <li>📚 Adquirindo conhecimento nos cursos: <a href="https://codeboost.com.br/" target="_blank">Codeboost</a>, <a href="https://onebitcode.com/lp/" target="_blank">OneBitCode</a>, <a href="https://www.udemy.com/" target="_blank">Udemy<a/>, <a href="https://www.uiboost.com.br/" target="_blank">UIBoost</a>.</li>
     <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia no Front-end e UI Design.</li>
-    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+    <li>🔮 Estou me especializando em UI Design e Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Evoluindo exponencialmente em <strong>React.js</strong> e em seu ecossistema.</li>
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
 </ul>
 <br/>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="254px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-<table align="right" height="255px">
+<table align="center" height="355px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -54,89 +53,15 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Typescript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
-      <sub>
-        <b>
-          <pre>Tailwind<br/>CSS</pre>
-        </b>
-      </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
         <sub>
           <b>
-            <pre>Gitflow</pre>
+            <pre>GitHub</pre>
           </b>
         </sub>
       </a>
     </td>
-  </tr>
-    <tr>
-    <td align="center">
-      <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
-        <sub>
-          <b>
-            <pre>Firebase</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://next-auth.js.org/">
-        <img src="https://user-images.githubusercontent.com/86276393/212922355-e38adb95-9e96-4970-b934-e8ac6c9bd3c9.png" width="60px" alt="NextAuth icon"/><br/>
-        <sub>
-          <b>
-            <pre>NextAuth</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://react-hook-form.com/">
-        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="65px" alt="React Hook Form icon"/><br/>
-        <sub>
-          <b>
-            <pre>React Hook<br/>Form</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://graphql.org/">
-        <img src="https://skillicons.dev/icons?i=graphql" width="65px" alt="GraphQL icon"/><br/>
-        <sub>
-          <b>
-            <pre>GraphQL</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.radix-ui.com/">
-        <img src="https://i.ibb.co/dBn3tGF/radix.png" width="65px" alt="Radix icon"/><br/>
-        <sub>
-          <b>
-            <pre>Radix UI</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
@@ -145,26 +70,6 @@
           <pre>Bootstrap</pre>
         </b>
       </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://headlessui.com/">
-        <img src="https://user-images.githubusercontent.com/86276393/212924197-eb12c9c9-3803-4470-897a-bdf8f9976f97.png" height="65px" alt="HeadlessUI icon"/><br/>
-        <sub>
-          <b>
-            <pre>HeadlessUI</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
-        <sub>
-          <b>
-            <pre>Styled<br/>Components</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
@@ -190,68 +95,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.sanity.io/">
-        <img src="https://user-images.githubusercontent.com/86276393/212923447-c70352c9-540b-4063-8279-880ad2c164e2.png" height="65px" alt="Sanity icon"/><br/>
-        <sub>
-          <b>
-            <pre>Sanity.io</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://stripe.com/en-br/">
-        <img src="https://user-images.githubusercontent.com/86276393/212921259-b6b0f80e-d9ed-4b0e-b17a-34733b507cec.png" width="65px" alt="Stripe icon"/><br/>
-        <sub>
-          <b>
-            <pre>Stripe</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://redux.js.org/">
-        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
-        <sub>
-          <b>
-            <pre>Redux<br/>Toolkit</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
-        <sub>
-          <b>
-            <pre>Express.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactnative.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
-        <sub>
-          <b>
-            <pre>React<br>Native</pre>
-          </b>
-        </sub>
-     </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://nativebase.io/">
-        <img src="https://nativebase.io/img/nativebase-logo.svg" width="65px" alt="NativeBase icon"/><br/>
-        <sub>
-          <b>
-            <pre>NativeBase</pre>
-          </b>
-        </sub>
-     </a>
-    </td>
-    <td align="center">
       <a href="https://axios-http.com/docs/intro">
       <img src="https://i.ibb.co/305Zbht/axios.png" width="65px" alt="Axios icon"/><br/>
       <sub>
@@ -259,16 +102,6 @@
           <pre>Axios &<br/>FetchAPI</pre>
         </b>
       </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
-        <sub>
-          <b>
-            <pre>Node.js</pre>
-          </b>
-        </sub>
       </a>
     </td>
     <td align="center">
@@ -291,8 +124,6 @@
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
@@ -323,19 +154,9 @@
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://pop.system76.com/">
-        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
-        <sub>
-          <b>
-            <pre>Linux &<br>Windows</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
