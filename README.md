@@ -165,29 +165,17 @@
   <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
   </a>
-  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
+  <a href="mailto:vitor.linaris@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
   </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitorlinaris/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
-  </a>
-  <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/202913530-1e20fe60-6731-4597-ad15-6b60af96a7df.png" alt="Vitrine.Dev badge">
-  </a>
-  <a href="https://t.me/lu_k4x" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge">
   </a>
   <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp badge">
   </a>
-  <a href="https://www.instagram.com/lu_k4x/" target="_blank">
+  <a href="https://www.instagram.com/linaris.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
-  </a>
-  <a href="https://line.me/ti/p/9DbuEDA6O7" target="_blank">
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line badge">
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="Stack Overflow badge">
   </a>
   <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="Discord badge">
 </p>
