@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo,+Meu+nome+é+Vitor;Sou+Desenvolvedor+Front-end+&+UI+Design;Formado+em+Análise+Desenvolvimento+de+Sistemas;Sinta-se+à+vontade+para+entrar+em+contato!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=19&duration=5001&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Bem-vindo%2C+Meu+nome+%C3%A9+Vitor;Sou+Desenvolvedor+Front-end+%26+UI+Design;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 <div align="center">  
 <br/><br/>
@@ -179,7 +179,6 @@
   <a href="https://www.instagram.com/linaris.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
   </a>
-  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="Discord badge">
 </p>
 <br><br><br>
 
