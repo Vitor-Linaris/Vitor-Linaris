@@ -1,11 +1,13 @@
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
-  <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.gif" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo,+Meu+nome+é+Vitor;Sou+Desenvolvedor+Front-end+&+UI+Design;Formado+em+Análise+Desenvolvimento+de+Sistemas;Sinta-se+à+vontade+para+entrar+em+contato!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling" />
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <b>
@@ -16,7 +18,7 @@
       <a href="readme-en.md">🇺🇸 English</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <ul align="left">
     <li>🤩️ Sou apaixonado por Tecnologia, UI Design, Games.</li>
