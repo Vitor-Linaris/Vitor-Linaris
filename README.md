@@ -164,13 +164,13 @@
 <img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+  <a href="https://drive.google.com/file/d/1qxNgXNRUwBmE2ZV7a7ADaC0m6YsQx8AO/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
   </a>
   <a href="mailto:vitor.linaris@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
   </a>
-  <a href="https://www.linkedin.com/in/vitorlinaris/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-linaris-a33a95235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
   </a>
   <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
