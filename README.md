@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37FF9F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=19&duration=5001&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Bem-vindo%2C+Meu+nome+%C3%A9+Vitor;Sou+Desenvolvedor+Front-end+%26+UI+Design;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=32&duration=3500&pause=1000&color=37FF9F&center=true&vCenter=true&width=1000&lines=Bem-vindo%2C+Meu+nome+%C3%A9+Vitor;Sou+Desenvolvedor+Front-end+%26+UI+Design;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 <div align="center">  
 <br/><br/>
@@ -366,4 +366,4 @@
 <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="luk4x profile visitors count" height="40px" align="left" />
 <br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37FF9F&height=120&section=footer"/>
