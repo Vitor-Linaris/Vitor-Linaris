@@ -6,7 +6,7 @@
 <br/><br/>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling" />
+<img align="right" src="./images/IMG-20220731-WA0067.jpg" width="370px" height="300px" alt="anime chilling" />
 <!-- <table align="center">
   <tr>
     <td>
