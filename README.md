@@ -173,9 +173,6 @@
   <a href="https://www.linkedin.com/in/vitor-linaris-a33a95235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
   </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp badge">
-  </a>
   <a href="https://www.instagram.com/linaris.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
   </a>
@@ -187,8 +184,8 @@
 <table height="495px">
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/apple-store" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+    <a href="https://github.com/Vitor-Linaris/Blog-Codeboost" target="_blank">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Vitor-Linaris&repo=Blog-Codeboost&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
     </a>
     </td>
   </tr>
@@ -234,111 +231,6 @@
     </a>
     </td>
   </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/playstation-store" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/copa-web" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-web&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/dev-burger-order-log-API" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=dev-burger-order-log-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/projeto-calculadora" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/user-register-API" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=user-register-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/MissProg5d" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=MissProg5d&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/copa-server" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=copa-server&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/netflix-start-page-clone" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=netflix-start-page-clone&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/nlw-Heat-Origin-" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=nlw-Heat-Origin-&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/projeto-formulario-de-contato" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-formulario-de-contato&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/projeto-mobile-template-login-singup" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=projeto-mobile-template-login-singup&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/DevClub-project-YogaApp" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=DevClub-project-YogaApp&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-    </td>
-  </tr>
 </table>
 <br>
 
@@ -346,15 +238,15 @@
   <details open>
     <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
     <br/>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-Linaris&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
     <br/><br/>
-    <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+    <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Vitor-Linaris&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
     <div align="right">
-      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-      <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
+      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Vitor-Linaris&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+      <img height="203px" src="https://streak-stats.demolab.com?user=Vitor-Linaris&theme=tokyonight&hide_border=true" />
     </div>
     <br/>
-    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />-->
   </details>
 
 <hr/>
