@@ -161,7 +161,6 @@
 <br/>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<br><br>
 <p align="center">
   <a href="https://drive.google.com/file/d/1qxNgXNRUwBmE2ZV7a7ADaC0m6YsQx8AO/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
