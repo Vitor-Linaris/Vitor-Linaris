@@ -161,7 +161,7 @@
 <br/>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="250px" src="./images/giphy.gif" alt="anime coding">
+<img align="left" width="250px" src="./images/contact.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://drive.google.com/file/d/1qxNgXNRUwBmE2ZV7a7ADaC0m6YsQx8AO/view?usp=sharing" target="_blank">
@@ -180,7 +180,7 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
+<img align="right" src="./images/working-hard.gif" height="496px" alt="projects image">
 <table height="495px">
   <tr>
     <td>
