@@ -6,7 +6,7 @@
 <br/><br/>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<img align="right" src="./images/IMG-20220731-WA0067.jpg" width="370px" height="300px" alt="anime chilling" />
+<img align="right" src="./images/WhatsApp Image 2024-09-05 at 09.19.30.jpeg" width="370px" height="300px" alt="anime chilling" />
 <!-- <table align="center">
   <tr>
     <td>
@@ -24,7 +24,7 @@
     <li>🤩️ Sou apaixonado por Tecnologia, UI Design, Games.</li>
     <li>💻 <b>Trabalho</b> no <a href="https://www.crcease.decea.mil.br/" target="_blank">CRCEA-SE</a> e sou formado em Análise e Desenvolvimento de Sistema pela <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a>.</li>
     <li>📚 Adquirindo conhecimento nos cursos: <a href="https://codeboost.com.br/" target="_blank">Codeboost</a>, <a href="https://onebitcode.com/lp/" target="_blank">OneBitCode</a>, <a href="https://www.udemy.com/" target="_blank">Udemy<a/>, <a href="https://www.uiboost.com.br/" target="_blank">UIBoost</a>.</li>
-    <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia no Front-end e UI Design.</li>
+    <li>🔭 Com mais de 2 ano de <b>experiência</b>, tenho autonomia no Front-end e UI Design.</li>
     <li>🔮 Estou me especializando em UI Design e Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Evoluindo exponencialmente em <strong>React.js</strong> e em seu ecossistema.</li>
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
@@ -34,6 +34,56 @@
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <table align="center" height="355px">
   <tr>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
+        <sub>
+          <b>
+            <pre>Firebase</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB icon"/><br/>
+        <sub>
+          <b>
+            <pre>MongoDB</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
+        <sub>
+          <b>
+            <pre>MySQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=Jest" width="65px" alt="Jest icon"/><br/>
+        <sub>
+          <b>
+            <pre>Jest</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Redux</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
@@ -62,6 +112,16 @@
             <pre>GitHub</pre>
           </b>
         </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="StyledComponents icon"/><br/>
+      <sub>
+        <b>
+          <pre>StyledComponents</pre>
+        </b>
+      </sub>
       </a>
     </td>
     <td align="center">
@@ -104,6 +164,16 @@
           <pre>Axios &<br/>FetchAPI</pre>
         </b>
       </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
       </a>
     </td>
     <td align="center">
