@@ -21,7 +21,8 @@
     </td>
   </tr>
 </table> -->
-
+<br/>
+<br/>
 <ul align="left">
     <li>🤩️ Sou apaixonado por Tecnologia, UI Design, Games.</li>
     <li>💻 <b>Trabalho</b> no <a href="https://www.crcease.decea.mil.br/" target="_blank">CRCEA-SE</a> e sou formado em Análise e Desenvolvimento de Sistema pela <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a>.</li>
