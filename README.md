@@ -6,7 +6,11 @@
 <br/><br/>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
+<<<<<<< HEAD
 <img align="right" src="./images/IMG-20220731-WA0021 2.png" width="333px" height="444px" alt="anime chilling" />
+=======
+<img align="right" src="./images/IMG-20220731-WA0021 2.png" width="422px" height="595px" alt="anime chilling" />
+>>>>>>> 824d9394dcbdc8a036981957ad25c80edd8f0e8d
 <!-- <table align="center">
   <tr>
     <td>
