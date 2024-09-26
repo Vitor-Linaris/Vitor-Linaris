@@ -32,11 +32,13 @@
     <li>⚡ Fun fact: Eu estruturo minha rotina em Javascript.</li>
 </ul>
 <br/>
+<br/>
+<br/>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <table align="center" height="355px">
   <tr>
-    <td align="center">
+  <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
         <sub>
@@ -68,7 +70,7 @@
     </td>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=Jest" width="65px" alt="Jest icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="Jest icon"/><br/>
         <sub>
           <b>
             <pre>Jest</pre>
@@ -86,6 +88,8 @@
         </sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
